@@ -8,3 +8,4 @@ https://app.patika.dev/courses/react
 ## Topics
 1. [Component - Props](./components-props/)
 2. [States](./states/)
+3. [Lifecycle](./lifecycle/)
