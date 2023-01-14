@@ -13,3 +13,4 @@ https://app.patika.dev/courses/react
 1. [Component - Props](./components-props/)
 2. [States](./states/)
 3. [Lifecycle](./lifecycle/)
+4. [Style Definitions](./style-definitions/)
