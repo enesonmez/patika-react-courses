@@ -14,3 +14,4 @@ https://app.patika.dev/courses/react
 2. [States](./states/)
 3. [Lifecycle](./lifecycle/)
 4. [Style Definitions](./style-definitions/)
+5. [Fetching](./fetching/)
