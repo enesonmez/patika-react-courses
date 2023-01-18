@@ -15,3 +15,4 @@ https://app.patika.dev/courses/react
 3. [Lifecycle](./lifecycle/)
 4. [Style Definitions](./style-definitions/)
 5. [Fetching](./fetching/)
+6. [Routing](./routing/)
