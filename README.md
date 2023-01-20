@@ -16,3 +16,4 @@ https://app.patika.dev/courses/react
 4. [Style Definitions](./style-definitions/)
 5. [Fetching](./fetching/)
 6. [Routing](./routing/)
+7. [Form Management](./formik/)
