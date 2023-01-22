@@ -17,3 +17,4 @@ https://app.patika.dev/courses/react
 5. [Fetching](./fetching/)
 6. [Routing](./routing/)
 7. [Form Management](./formik/)
+7. [Memoization](./memoization/)
