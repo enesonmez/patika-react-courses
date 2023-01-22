@@ -18,3 +18,4 @@ https://app.patika.dev/courses/react
 6. [Routing](./routing/)
 7. [Form Management](./formik/)
 7. [Memoization](./memoization/)
+8. [State Management - Context](./context/)
