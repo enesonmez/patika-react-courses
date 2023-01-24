@@ -5,6 +5,7 @@ https://app.patika.dev/courses/react
 ## Assignments
 1. [JS Fundamentals](./js-fundamentals-assignment/)
 2. [Todo App](./todo-app/)
+3. [Weather App](./weather-app/)
 
 ## Projects
 1. [Contacts App](./contacts-app/)
