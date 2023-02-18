@@ -10,6 +10,7 @@ https://app.patika.dev/courses/react
 ## Projects
 1. [Contacts App](./contacts-app/)
 2. [Realtime Color App](./realtime-color-app/)
+3. [Chat App](./chat-app/client/)
 
 ## Topics
 1. [Component - Props](./components-props/)
