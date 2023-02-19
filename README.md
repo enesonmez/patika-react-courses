@@ -22,3 +22,4 @@ https://app.patika.dev/courses/react
 7. [Form Management](./formik/)
 7. [Memoization](./memoization/)
 8. [State Management - Context](./context/)
+9. [Localization](./localization/)
