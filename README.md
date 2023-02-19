@@ -6,6 +6,7 @@ https://app.patika.dev/courses/react
 1. [JS Fundamentals](./js-fundamentals-assignment/)
 2. [Todo App](./todo-app/)
 3. [Weather App](./weather-app/)
+4. [Emoji Search Testing](./emoji-search/)
 
 ## Projects
 1. [Contacts App](./contacts-app/)
