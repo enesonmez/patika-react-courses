@@ -7,6 +7,7 @@ https://app.patika.dev/courses/react
 2. [Todo App](./todo-app/)
 3. [Weather App](./weather-app/)
 4. [Emoji Search Testing](./emoji-search/)
+5. [Button Package Publishing](./publishing/entekui/)
 
 ## Projects
 1. [Contacts App](./contacts-app/)
@@ -25,3 +26,4 @@ https://app.patika.dev/courses/react
 9. [State Management - Context](./context/)
 10. [Localization](./localization/)
 11. [Testing](./testing/)
+12. [Publishing](./publishing/)
