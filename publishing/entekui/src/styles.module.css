@@ -1,0 +1,65 @@
+/* add css module styles here (optional) */
+
+.entek-btn {
+  padding: 4px 15px;
+  border-radius: 6px;
+  outline: none;
+  color: rgba(0,0,0,.88);
+  font-weight: 400;
+  font-size: 14px;
+  font-family: -apple-system, BlinkMacSystemFont, segoe ui, Roboto,
+    helvetica neue, Arial, noto sans, sans-serif, apple color emoji,
+    segoe ui emoji, segoe ui symbol, noto color emoji;
+  cursor: pointer;
+  user-select: none;
+  line-height: 1.5714285714285714;
+  border: 1px solid transparent;
+  background-color: transparent;
+  transition: all 0.2s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+.entek-btn-primary {
+  background-color: #1677ff;
+  color: #fff;
+  box-shadow: 0 2px 0 rgb(5 145 255 / 10%);
+}
+
+.entek-btn-primary:hover {
+  color: #fff;
+  background-color: #4096ff;
+}
+
+.entek-btn-default-primary {
+  background-color: #fff;
+  border-color: #d9d9d9;
+  box-shadow: 0 2px 0 rgb(0 0 0 / 2%);
+}
+
+.entek-btn-default-primary:hover {
+  color: #4096ff;
+  border-color: #4096ff;
+}
+
+.entek-btn-dashed-primary {
+  background-color: #fff;
+  border-color: #d9d9d9;
+  box-shadow: 0 2px 0 rgb(0 0 0 / 2%);
+  border-style: dashed;
+}
+
+.entek-btn-dashed-primary:hover {
+  color: #4096ff;
+  border-color: #4096ff;
+}
+
+.entek-btn-link-primary {
+  color: #1677ff;
+}
+
+.entek-btn-link-primary:hover {
+  color: #69b1ff;
+}
+
+.entek-btn-text:hover {
+  background-color: rgba(0,0,0,.06);
+}
